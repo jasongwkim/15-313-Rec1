@@ -1,0 +1,7 @@
+def main():
+<<<<<<< Updated upstream
+  print("Hello, world!")
+=======
+  print("Hello, world.")
+  return 0
+>>>>>>> Stashed changes
